@@ -2,22 +2,29 @@ body{
     background: #BDBDBD;
 }
 
-.firstHead{
+
+
+.services {
+
+
+
     display: flex;
     justify-content: center;
     margin: 80px;
 }
 
-.firstHead img {
-    width: 400px;
-    height: 400px;
+.services img {
+    width: 380px;
+    height: 380px;
     border-radius: 100%;
     object-fit: cover;
+    padding-right: 5px;
 }
 
-.firstHead span {
+.services span {
     color: grey;
 }
+
 
 
 
