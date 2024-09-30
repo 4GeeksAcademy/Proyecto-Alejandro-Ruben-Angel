@@ -40,7 +40,34 @@ body{
 
 
 
-
+.tagline{
+    background-image: url(https://images.freeimages.com/images/large-previews/b59/panoramic-irish-landscape-1395345.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.tagline img{
+    object-fit: cover;
+}
+.texto1{
+    position: absolute;
+    top: 10%;
+    left: 10px;
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+}
+.texto2{
+    position: absolute;
+    top: 25%;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+}
+.texto1 h1{
+    font-size: 70px;
+}
 
 
 
